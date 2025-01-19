@@ -1,0 +1,26 @@
+{
+  "name": "gramio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/parse-mode": "^1.11.1",
+    "child_process": "^1.0.2",
+    "grammy": "^1.34.0",
+    "html-pdf-node": "^1.0.8",
+    "node-fetch": "^3.3.2",
+    "node-html-to-pdf": "^1.0.3",
+    "path": "^0.12.7",
+    "punycode": "^2.3.1",
+    "puppeteer": "^24.1.0",
+    "querystring": "^0.2.1",
+    "sharp": "^0.33.5",
+    "sqlite3": "^5.1.7",
+    "url": "^0.11.4"
+  }
+}
